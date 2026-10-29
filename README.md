@@ -12,7 +12,9 @@ My current interests are robot perception, state estimation, dynamics/control, o
 - Real-Time Embedded System Design
 - Machine Learning Systems Engineering and Operations
 - Internet Architecture and Protocols
-- Planned: Robot Perception, Probability and Stochastic Processes
+- Robot Perception
+- Game Theory
+- Deep Learning
 
 ## Selected Projects
 
